@@ -9,4 +9,3 @@ The app combines top-down and bottom-up communication features such as a newsfee
 ## Resources
 
 - [Website](https://getflip.com) – Explore the Flip app.
-- [Twitter](https://twitter.com/flipapp_de) – See the latest tweets about Flip.
